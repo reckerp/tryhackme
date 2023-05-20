@@ -29,7 +29,7 @@ PORT   STATE SERVICE
 - `cat /var/www/user.txt`
   - THM{y0u_g0t_a_sh3ll}
 
-## Priviledge Escalation
+## Privilege Escalation
 - Use linPeas (download from host python3 server)
   - `./linpeas.sh | tee linlog.txt`
   - Result: python vulnerable
