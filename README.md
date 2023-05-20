@@ -3,3 +3,4 @@ This collection contains a range of materials related to TryHackMe Capture the F
 
 ## Table of Contents
 - [basicpentesting](/basicpentesting)
+- [rootme](/rootme)
