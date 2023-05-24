@@ -6,3 +6,4 @@ This collection contains a range of materials related to TryHackMe Capture the F
 - [rootme](/rootme)
 - [easyctf](/easyctf)
 - [agentsudo](/agentsudo)
+- [lazyadmin](/lazyadmin)
